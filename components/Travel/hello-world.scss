@@ -1,0 +1,52 @@
+.jumbotron {
+ background-color: black;
+  text-align: center;
+  padding-bottom: 0px;
+}
+.jumbotron h1 {
+  color: #fff;
+  margin-top: 60px!important;
+  font-size: 90px;
+  font-weight: 700;
+}
+.logo {
+  float: left;
+  margin-top: -48px !important;
+}
+
+.tab_Color {
+  background-color: #000;
+  padding-bottom: 21px;
+  margin-top: -30px !important;
+}
+.nav>li>a {
+  position: relative;
+  display: block;
+  padding: 10px 207px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-tabs>li>a {
+  margin-left: 9px;
+  margin-top: 10px !important;
+}
+div.inner{
+   background-image: url("../Travel/Images/slider.jpg");
+   background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -35px !important;
+ }
+.info_form{
+  width: 25%;
+  margin: 35px auto;
+  height: auto;
+  border: 2px solid red;
+  background-color: #C1C1C1;
+}
+
+
+
+
